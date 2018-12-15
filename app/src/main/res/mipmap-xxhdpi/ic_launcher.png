@@ -1,0 +1,117 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="" count="1" />
+      <entry action="$Copy" count="723" />
+      <entry action="$Cut" count="31" />
+      <entry action="$Delete" count="558" />
+      <entry action="$Paste" count="15007" />
+      <entry action="$SelectAll" count="104" />
+      <entry action="$Undo" count="10513" />
+      <entry action="ActivateProjectToolWindow" count="2" />
+      <entry action="Add Annotation" count="7" />
+      <entry action="Add Javadoc" count="1" />
+      <entry action="Add On Demand Static Import" count="8" />
+      <entry action="Add Single-Member Static Import" count="21" />
+      <entry action="Add TypeCast" count="63" />
+      <entry action="Add braces to  if  statement" count="1" />
+      <entry action="Add constructor parameter" count="1" />
+      <entry action="Add exception to catch clause" count="4" />
+      <entry action="Add exception to method signature" count="1" />
+      <entry action="Add explicit type arguments" count="3" />
+      <entry action="Add library to classpath" count="5" />
+      <entry action="Add method body" count="2" />
+      <entry action="Add method qualifier" count="7" />
+      <entry action="Add module dependency" count="2" />
+      <entry action="AddGradleDslPluginAction" count="1" />
+      <entry action="Android Lint Quick Fixes" count="179" />
+      <entry action="Android Profiler" count="5" />
+      <entry action="Android Quick Fixes" count="10" />
+      <entry action="Android.CreateResourceDirectory" count="2" />
+      <entry action="Android.CreateSampleDataDirectory" count="13" />
+      <entry action="Android.GenerateSignedApk" count="2" />
+      <entry action="Android.RunAndroidAvdManager" count="5" />
+      <entry action="Android.RunAndroidSdkManager" count="3" />
+      <entry action="Android.ShowThemeEditor" count="1" />
+      <entry action="Android.SyncProject" count="14" />
+      <entry action="AndroidConnectDebuggerAction" count="281" />
+      <entry action="Assert  getArguments() != null " count="1" />
+      <entry action="AutoIndentLines" count="1" />
+      <entry action="Back" count="1465" />
+      <entry action="Bind parameters to fields" count="2" />
+      <entry action="Change Parameter Class" count="6" />
+      <entry action="Change method signature from usage" count="10" />
+      <entry action="Change new operator type" count="6" />
+      <entry action="ChangeSignature" count="2" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="ClassNameCompletion" count="16" />
+      <entry action="CleanGradleProject" count="145" />
+      <entry action="CloseAllEditors" count="3" />
+      <entry action="CloseAllEditorsButActive" count="3" />
+      <entry action="CloseContent" count="4" />
+      <entry action="CloseProject" count="33" />
+      <entry action="Cluestick.SearchMenu" count="1" />
+      <entry action="CodeCompletion" count="154" />
+      <entry action="Collapse empty tag" count="167" />
+      <entry action="CollapseBlock" count="1" />
+      <entry action="CollapseExpandableComponent" count="2" />
+      <entry action="CollapseRegion" count="5" />
+      <entry action="CollapseSelection" count="8" />
+      <entry action="CommentByBlockComment" count="14" />
+      <entry action="CommentByLineComment" count="2821" />
+      <entry action="CompareTwoFiles" count="5" />
+      <entry action="ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry action="ConfigureIcs" count="1" />
+      <entry action="CopyElement" count="1" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="CopyReference" count="4" />
+      <entry action="Create Class from New" count="3" />
+      <entry action="Create Class from Usage" count="5" />
+      <entry action="Create Constant From Usage" count="11" />
+      <entry action="Create Constructor from New" count="2" />
+      <entry action="Create Local from Usage" count="2" />
+      <entry action="Create Test" count="3" />
+      <entry action="Create constructor matching super" count="85" />
+      <entry action="Create field from Usage" count="10" />
+      <entry action="Create method from usage" count="18" />
+      <entry action="Create namespace declaration" count="28" />
+      <entry action="Create switch statement" count="1" />
+      <entry action="CreateLibraryFromFile" count="24" />
+      <entry action="CreateResourceBundle" count="1" />
+      <entry action="Debug" count="879" />
+      <entry action="Debugger.EditFrameSource" count="13" />
+      <entry action="Delete Catch" count="6" />
+      <entry action="Delete element" count="3" />
+      <entry action="Delete method body" count="1" />
+      <entry action="Delete statement extracting side effects" count="3" />
+      <entry action="Disable inspection" count="1" />
+      <entry action="Edit method contract" count="4" />
+      <entry action="Edit options of reporter inspection" count="4" />
+      <entry action="EditSource" count="4" />
+      <entry action="EditSourceInNewWindow" count="1" />
+      <entry action="Editor notification option" count="1" />
+      <entry action="EditorBackSpace" count="94632" />
+      <entry action="EditorChooseLookupItem" count="88865" />
+      <entry action="EditorChooseLookupItemReplace" count="349" />
+      <entry action="EditorContextInfo" count="3" />
+      <entry action="EditorCopy" count="8688" />
+      <entry action="EditorCut" count="3042" />
+      <entry action="EditorDecreaseFontSize" count="5" />
+      <entry action="EditorDelete" count="9827" />
+      <entry action="EditorDeleteLine" count="2887" />
+      <entry action="EditorDeleteToLineEnd" count="3" />
+      <entry action="EditorDeleteToWordEnd" count="10" />
+      <entry action="EditorDeleteToWordStart" count="19" />
+      <entry action="EditorDown" count="31239" />
+      <entry action="EditorDownWithSelection" count="130" />
+      <entry action="EditorDuplicate" count="2" />
+      <entry action="EditorDuplicateLines" count="16" />
+      <entry action="EditorEnter" count="43290" />
+      <entry action="EditorEscape" count="50" />
+      <entry action="EditorIncreaseFontSize" count="13" />
+      <entry action="EditorIndentSelection" count="18" />
+      <entry action="EditorLeft" count="8810" />
+      <entry action="EditorLeftWithSelection" count="323" />
+      <entry action="EditorLineEnd" count="439" />
+      <entry action="EditorLineEndWithSelection" co

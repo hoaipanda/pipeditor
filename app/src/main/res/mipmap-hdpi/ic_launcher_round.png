@@ -1,0 +1,61 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android Profiler@MainToolbar" count="5" />
+      <entry action="Android.RunAndroidAvdManager@MainToolbar" count="5" />
+      <entry action="Android.RunAndroidSdkManager@MainToolbar" count="3" />
+      <entry action="Android.SyncProject@MainToolbar" count="14" />
+      <entry action="AndroidConnectDebuggerAction@MainToolbar" count="281" />
+      <entry action="Back@MainToolbar" count="1464" />
+      <entry action="Debug@MainToolbar" count="840" />
+      <entry action="Debug@NavBarToolbar" count="2" />
+      <entry action="ExternalSystem.RefreshAllProjects@Gradle View Toolbar" count="5" />
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="56" />
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="208" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="6" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="5" />
+      <entry action="ForceStepInto@DebuggerToolbar" count="2" />
+      <entry action="Forward@MainToolbar" count="6" />
+      <entry action="HelpTopics@MainToolbar" count="1" />
+      <entry action="MakeGradleProject@MainToolbar" count="3" />
+      <entry action="OpenFile@MainToolbar" count="11" />
+      <entry action="Print@AndroidLogcatView" count="2" />
+      <entry action="Replace@MainToolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Resume@DebuggerToolbar" count="1250" />
+      <entry action="Run@MainToolbar" count="8656" />
+      <entry action="Run@NavBarToolbar" count="12" />
+      <entry action="StepInto@DebuggerToolbar" count="3" />
+      <entry action="StepOut@DebuggerToolbar" count="5" />
+      <entry action="StepOver@DebuggerToolbar" count="3591" />
+      <entry action="Stop@DebuggerToolbar" count="3" />
+      <entry action="Stop@MainToolbar" count="152" />
+      <entry action="Synchronize@MainToolbar" count="3" />
+      <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="2" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="2" />
+      <entry action="com.android.tools.idea.actions.AndroidNewModuleAction@AndroidProjectStructureConfigurable" count="2" />
+      <entry action="com.android.tools.idea.actions.BrowserHelpAction@AndroidLogcatView" count="1" />
+      <entry action="com.android.tools.idea.common.actions.IssueNotificationAction@NlRhsConfigToolbar" count="11" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="21" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="10" />
+      <entry action="com.android.tools.idea.configurations.OrientationMenuAction@toolbar" count="5" />
+      <entry action="com.android.tools.idea.configurations.ThemeMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.ddms.actions.ScreenshotAction@AndroidLogcatView" count="144" />
+      <entry action="com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvoker$2$1@BuildView" count="1" />
+      <entry action="com.android.tools.idea.logcat.AndroidLogcatView$MyConfigureLogcatHeaderAction@AndroidLogcatView" count="15" />
+      <entry action="com.android.tools.idea.logcat.AndroidLogcatView$MyRestartAction@AndroidLogcatView" count="1" />
+      <entry action="com.android.tools.idea.logcat.LogcatConsoleActionsPostProcessor$ClearLogCatAction@AndroidLogcatView" count="204" />
+      <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ToggleViewActionWrapper@NlLayoutToolbar" count="6" />
+      <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="2" />
+      <entry action="com.intellij.build.AbstractViewManager$CloseBuildContentAction@BuildView" count="8" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@BuildResults" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="83" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="2" />
+      <entry action="com.intellij.find.actions.ShowUsagesAction$7@UsageViewToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="57" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="7" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="10" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@AndroidLogcatView" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="2" />
+      <entry action="com.intellij.openapi.editor.ac

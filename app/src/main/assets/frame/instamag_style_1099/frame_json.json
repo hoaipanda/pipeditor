@@ -1,0 +1,11 @@
+{
+  "with": "0.52",
+  "height": "0.52",
+  "top": "0.32",
+  "left": "0.38",
+  "backGround": "m0_fg.png",
+  "mask": "m0_mask.png",
+  "title":"CAMERA"
+}
+
+
